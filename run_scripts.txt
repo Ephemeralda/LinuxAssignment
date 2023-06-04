@@ -1,0 +1,7 @@
+./generate-dataset.sh dataset1.txt 1000
+./sort-data.sh dataset1.txt
+./generate-dataset.sh dataset2.txt 100000
+./sort-data.sh dataset2.txt
+./generate-dataset.sh dataset3.txt 10000000
+./sort-data.sh dataset3.txt
+
